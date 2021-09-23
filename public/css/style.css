@@ -1,0 +1,20 @@
+body {
+    background-color: #eceff1;
+}
+
+#form-question {
+    margin-top: 5vh;
+}
+
+.nav-color {
+    background-color: #1f1f23;
+}
+
+.img-logo {
+    padding-left: 35px;
+}
+
+.btn-color {
+    background-color: #9256ec;
+    color: #fff;
+}

@@ -1,0 +1,12 @@
+Questions
+
+Projeto de perguntas e respostas. Onde os usuários poderam realizar perguntas livremente, e poderam responder
+a perguntas de outros usuários.
+
+ejs
+express
+bootstrap 4
+javascript
+nodejs
+Html
+Css
