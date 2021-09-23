@@ -12,6 +12,7 @@ Um simples projeto utilizando as tecnologias mencionadas abaixo, para colocar em
 <li>MySQL</li>
 <li>Express</li>
 <li>Sequelize</li>
+<li>EJS</li>
 </ul>
 
 ## Configuração de ambiente e recursos necessários para inicializar o projeto
